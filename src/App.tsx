@@ -5,6 +5,7 @@ function App() {
       <h2>LAB - 1</h2>
       <p>Ad Soyad: ŞEVAL PÖZE</p>
       <p>Ogrenci No: 230541042</p>
+      <p>Bu proje Vite + React + TypeScript ile oluşturuldu.</p>
     </div>
   )
 }
