@@ -6,6 +6,7 @@ function App() {
       <p>Ad Soyad: ŞEVAL PÖZE</p>
       <p>Ogrenci No: 230541042</p>
       <p>Bu proje Vite + React + TypeScript ile oluşturuldu.</p>
+      <p>Feature branch test commit</p>
     </div>
   )
 }
